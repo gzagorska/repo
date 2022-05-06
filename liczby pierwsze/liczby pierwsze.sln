@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "liczby pierwsze", "liczby pierwsze\liczby pierwsze.vcxproj", "{5606BA7F-1BC5-4517-8501-71553C7BBF0B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "szyfr", "szyfr\szyfr.vcxproj", "{CD454689-AF11-4328-8B2A-E425A9EEA6EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5606BA7F-1BC5-4517-8501-71553C7BBF0B}.Release|x64.Build.0 = Release|x64
 		{5606BA7F-1BC5-4517-8501-71553C7BBF0B}.Release|x86.ActiveCfg = Release|Win32
 		{5606BA7F-1BC5-4517-8501-71553C7BBF0B}.Release|x86.Build.0 = Release|Win32
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Debug|x64.ActiveCfg = Debug|x64
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Debug|x64.Build.0 = Debug|x64
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Debug|x86.Build.0 = Debug|Win32
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Release|x64.ActiveCfg = Release|x64
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Release|x64.Build.0 = Release|x64
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Release|x86.ActiveCfg = Release|Win32
+		{CD454689-AF11-4328-8B2A-E425A9EEA6EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
